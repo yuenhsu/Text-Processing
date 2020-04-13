@@ -1,5 +1,7 @@
 # Text-Processing
- Cleaning and striping line breaks, translating to Chinese using Google Cloud Platform API, and organising layout
+ Cleaning and striping line breaks, translating to Chinese using Google Cloud Platform API, and organising layout.
+
+![](https://img.shields.io/github/last-commit/yuenhsu/Text-Processing?style=for-the-badge) ![](https://img.shields.io/github/languages/count/yuenhsu/Text-Processing?style=for-the-badge) ![](https://img.shields.io/github/languages/top/yuenhsu/Text-Processing?style=for-the-badge) 
 
 ---
 `translate.command` has one job, running `translate.py`. As I hate having to launch text editor, the command script allows me to run it from terminal and avoid using Atom or VSCode.
